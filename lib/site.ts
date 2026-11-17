@@ -1,6 +1,7 @@
 // Everything personal lives here. Edit this file, not the components.
 
 export const site = {
+  content: "Personal Portfolio",
   name: "Akshaya Balakrishnan",
   role: "Software engineer · Frontend & full-stack",
   headline: "Frontend engineer building data-heavy interfaces in React and TypeScript",
